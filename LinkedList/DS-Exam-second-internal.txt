@@ -1,0 +1,15 @@
+Sorting methods (All sorting algorithm taught in the class);
+--Bucket sort and radix sort left--
+
+
+Linked List: Introduction, Linked list, Representation of Linked list in memory, Searching a linked list, Memory allocation, Garbage collection, Insertion and deletion in linked list, doubly linked list, Circular linked list, applications of linked list: polynomials, Memory management, Stacks, Queues, Recursion;
+--Completely learn LL, DLL, CLL, Stack, Queue, Recursion--
+
+
+Introduction, Stacks, Queues, Operations on stacks and Queues, Implementation of Stacks and Queues using arrays and linked list;
+--Stack and queue using array and LL--
+
+
+Arithmetic expression, evaluation; Recursion, DEQUEUE (double ended queue);
+--Fully left--
+
